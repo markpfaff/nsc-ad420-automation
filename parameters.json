@@ -27,7 +27,7 @@
             "value": "markpfaff-lecture6-nsg"
         },
         "adminPassword": {
-            "value": null
+            "value": "enternewpassword"
         },
         "diagnosticsStorageAccountName": {
             "value": "markpfaff-l6diag"
@@ -36,7 +36,7 @@
             "value": "Standard_LRS"
         },
         "diagnosticsStorageAccountId": {
-            "value": "Microsoft.Storage/storageAccounts/yournamel6diag"
+            "value": "Microsoft.Storage/storageAccounts/markpfaffl6diag"
         },
         "addressPrefix": {
             "value": "10.0.0.0/24"
